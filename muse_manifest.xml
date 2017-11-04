@@ -1,98 +1,100 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="mozsc.esy.es" resolutions="1x" timestamp="1474431028859">
+<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="mozsc.esy.es" resolutions="1x" timestamp="1509754714455">
   <folder name="css">
-    <file name="site_global.css" crc="3989333143"/>
-    <file name="master_a-master.css" crc="3865522910" ref="index:events:contribution:faq"/>
-    <file name="index.css" crc="4264710538" ref="index"/>
-    <file name="events.css" crc="506071264" ref="events"/>
-    <file name="contribution.css" crc="35043192" ref="contribution"/>
-    <file name="faq.css" crc="112176120" ref="faq"/>
+    <file name="site_global.css" crc="3916556066"/>
+    <file name="master_a-master.css" crc="7134656" ref="events:index:contact-us:forum:contribution"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="events:index:contact-us:forum:contribution"/>
+    <file name="events.css" crc="4161525993" ref="events"/>
+    <file name="index.css" crc="3771997243" ref="index"/>
+    <file name="nomq_index.css" crc="465145415" ref="index"/>
+    <file name="contact-us.css" crc="3951249580" ref="contact-us"/>
+    <file name="forum.css" crc="4212146685" ref="forum"/>
+    <file name="contribution.css" crc="58832187" ref="contribution"/>
   </folder>
   <folder name="assets">
-    <folder name="faqanime">
-      <folder name="media">
-        <file name="Untitled-1.mp4" crc="93933069" mt="1473539021000"/>
-      </folder>
+    <folder name="edge-banner-1">
       <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1473539021000"/>
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1496240055000"/>
       </folder>
       <folder name="images">
-        <file name="Poster.png" crc="323834619" mt="1473539021000"/>
+        <file name="DSC_0220.jpg" crc="346733549" mt="1496240055000"/>
+        <file name="Poster.png" crc="3847829258" mt="1496240055000"/>
       </folder>
-      <file name="faqanime_edge.js" crc="127592694" mt="1473539021000"/>
-      <file name="faqanime.html" crc="3883252871" mt="1473539021000"/>
+      <file name="edge banner 1_edge.js" crc="4040750550" mt="1496240055000"/>
+      <file name="edge banner 1.html" crc="435809169" mt="1496240055000"/>
     </folder>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index:events:faq:contribution"/>
-    <file name="museutils.js" crc="3851988764" ref="index:events:faq:contribution"/>
-    <file name="whatinput.js" crc="86476730" ref="index:events:faq:contribution"/>
-    <file name="museconfig.js" crc="169177150" ref="index:events:faq:contribution"/>
-    <file name="jquery.musemenu.js" crc="4150485998" ref="index:events:faq:contribution"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="271560940" ref="index:contribution"/>
-    <file name="jquery.watch.js" crc="3842844514" ref="index:events:faq:contribution"/>
-    <file name="jquery.scrolleffects.js" crc="511146689" ref="index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:events:faq:contribution"/>
-    <file name="require.js" crc="4108833657" ref="index:events:faq:contribution"/>
-    <file name="webpro.js" crc="4067903014" ref="faq"/>
-    <file name="form_check.php" crc="121412709" ref="faq"/>
-    <file name="form_throttle.php" crc="4268640971" ref="faq"/>
-    <file name="form_process.php" crc="444429785" ref="faq"/>
-    <file name="form-u683.php" crc="4189920295" ref="faq"/>
-    <file name="pie.js" crc="3831537696" ref="contribution"/>
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index:events:contribution:contact-us:forum"/>
+    <file name="museutils.js" crc="3851988764" ref="index:events:contribution:contact-us:forum"/>
+    <file name="whatinput.js" crc="86476730" ref="index:events:contribution:contact-us:forum"/>
+    <file name="museconfig.js" crc="4242129463" ref="index:events:contribution:contact-us:forum"/>
+    <file name="jquery.musemenu.js" crc="4150485998" ref="index:events:contribution:contact-us:forum"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="index:events:contribution:contact-us:forum"/>
+    <file name="pie.js" crc="3831537696" ref="index:events:contribution"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:events:contribution:contact-us:forum"/>
+    <file name="jquery.museresponsive.js" crc="516761069" ref="index"/>
+    <file name="require.js" crc="4108833657" ref="index:events:contribution:contact-us:forum"/>
+    <file name="webpro.js" crc="4067903014" ref="events"/>
+    <file name="musewpslideshow.js" crc="4265225696" ref="events"/>
+    <file name="jquery.museoverlay.js" crc="4075157096" ref="events"/>
+    <file name="touchswipe.js" crc="474750357" ref="events"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="271560940" ref="contribution"/>
   </folder>
   <folder name="images">
-    <file name="u937-4.png" crc="3812954018" ref="index:events:faq:contribution"/>
-    <file name="u956-4.png" crc="4052742969" ref="index:events:faq:contribution"/>
-    <file name="u941-4.png" crc="4093525993" ref="index:events:faq:contribution"/>
-    <file name="u1009-4.png" crc="445047622" ref="index:events:faq:contribution"/>
-    <file name="u951-4.png" crc="202874412" ref="index:events:faq:contribution"/>
-    <file name="bb2bffbffd2f4bbe54274e693245cedc.jpg" crc="451081139" seo="true" ref="index"/>
-    <file name="slogen.png" crc="3936174633" seo="true" ref="index"/>
-    <file name="00001.png" crc="498911012" seo="true" ref="index"/>
-    <file name="u128-6.png" crc="3766499110" ref="index"/>
-    <file name="6017-cartoons-comics-gameboy-advance-gba-video-games-cartoons-.gif" crc="202245050" seo="true" ref="index"/>
-    <file name="tumblr_o06l7j5yvv1to825mo1_500.gif" crc="324797063" seo="true" ref="index"/>
-    <file name="bf1-normal.png" crc="4237148591" ref="index"/>
-    <file name="bf1-mouse over.png" crc="435329601" ref="index"/>
-    <file name="bf1-clicked.png" crc="3763840315" ref="index"/>
-    <file name="bf2-norm.png" crc="272342473" ref="index"/>
-    <file name="bf2-mouse overlayer.png" crc="3901760091" ref="index"/>
-    <file name="bf2-clicked.png" crc="3804740537" ref="index"/>
-    <file name="mozsclogo 4.png" crc="4229736391" seo="true" ref="index"/>
-    <file name="bf3-normal.png" crc="18728814" ref="index"/>
-    <file name="bf3-mouse over.png" crc="3924149651" ref="index"/>
-    <file name="bf3-clicked.png" crc="26151450" ref="index"/>
-    <file name="bf4-normal.png" crc="4167570677" ref="index"/>
-    <file name="bf4-mouse over.png" crc="3905937953" ref="index"/>
-    <file name="bf4-clicked.png" crc="4041615572" ref="index"/>
-    <file name="template_responsive-ani3.gif" crc="148950320" seo="true" ref="index"/>
-    <file name="giphy.gif" crc="411896153" seo="true" ref="index"/>
-    <file name="u327-6.png" crc="4162400143" ref="index"/>
-    <file name="bf6.png" crc="4103523216" ref="index"/>
-    <file name="bf6-layer 1.png" crc="4181690349" ref="index"/>
-    <file name="u638-4.png" crc="276618187" ref="faq"/>
-    <file name="u713-17.png" crc="4131633904" ref="faq"/>
-    <file name="u713-17-r.png" crc="4285690536" ref="faq"/>
-    <file name="u713-17-m.png" crc="4121832632" ref="faq"/>
-    <file name="u713-17-fs.png" crc="139604563" ref="faq"/>
+    <file name="u138-4.png" crc="3858863746" ref="index:events:contribution:contact-us:forum"/>
+    <file name="photo6262748662388074419(1).jpg" crc="4100768897" ref="index"/>
+    <file name="photo6262748662388074422-ieu2313-fr.png" crc="78688368" ref="index"/>
+    <file name="photo6262748662388074422.jpg" crc="3945563763" ref="index"/>
+    <file name="photo6242413375220983751.jpg" crc="4158656607" ref="index"/>
+    <file name="photo6262748662388074419(1)-ieu4048-fr.png" crc="114056618" ref="index"/>
+    <file name="photo6262748662388074422-ieu4055-fr.png" crc="4038334290" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:events"/>
+    <file name="img_20170315_152452022.jpg" crc="215976233" seo="true" ref="events"/>
+    <file name="img_20170315_144750701.jpg" crc="3938237018" seo="true" ref="events"/>
+    <file name="426111783_150902.jpg" crc="4046511681" seo="true" ref="events"/>
+    <file name="426222785_252010.jpg" crc="4219582925" seo="true" ref="events"/>
+    <file name="dsc_0231.jpg" crc="3995169609" seo="true" ref="events"/>
+    <file name="dsc_0238.jpg" crc="3800953296" seo="true" ref="events"/>
+    <file name="dsc_0229.jpg" crc="13133076" seo="true" ref="events"/>
+    <file name="dsc_0326.jpg" crc="3861411449" seo="true" ref="events"/>
+    <file name="img_20160309_153820611_hdr-crop-u8040.jpg" crc="3998283839" ref="events"/>
+    <file name="img_0349-crop-u8060.jpg" crc="514289052" ref="events"/>
+    <file name="img_0249-crop-u8080.jpg" crc="4122586269" ref="events"/>
+    <file name="p_20150722_144847.jpg" crc="83865058" seo="true" ref="events"/>
+    <file name="p_20150722_152335.jpg" crc="231022372" seo="true" ref="events"/>
+    <file name="dsc06505-crop-u8140.jpg" crc="4263928552" ref="events"/>
+    <file name="loading.gif" crc="3815509949" ref="events"/>
+    <file name="video-bg.png" crc="4054221805" seo="true" ref="events"/>
+    <file name="pasted image 324x44.png" crc="4233780466" seo="true" ref="events"/>
+    <file name="u8851-4.png" crc="469990116" ref="events"/>
+    <file name="pasted image 408x409.png" crc="60541058" seo="true" ref="events"/>
+    <file name="34905752202_d814686428_z.jpg" crc="42916057" seo="true" ref="events"/>
+    <file name="u8895-4.png" crc="469990116" ref="events"/>
+    <file name="pasted image 325x44.png" crc="77241162" seo="true" ref="events"/>
+    <file name="u8876-4.png" crc="142545228" ref="events"/>
+    <file name="pasted image 364x365.png" crc="3980933742" seo="true" ref="events"/>
+    <file name="35033709956_51804e50f6_z.jpg" crc="239136003" seo="true" ref="events"/>
+    <file name="u8900-4.png" crc="142545228" ref="events"/>
     <file name="herramientas-hacer-infografias.jpg" crc="4038195209" seo="true" ref="contribution"/>
-    <file name="u1021-4.png" crc="3938306898" ref="contribution"/>
+    <file name="u11277-4.png" crc="3938306898" ref="contribution"/>
     <file name="nf3-what can i do for mozilla copy 2.png" crc="3953627266" ref="contribution"/>
     <file name="nf3-what can i do for mozilla copy.png" crc="3819210170" ref="contribution"/>
     <file name="nf3-what can i do for mozilla.png" crc="486464863" ref="contribution"/>
-    <file name="u1291-4.png" crc="44176096" ref="contribution"/>
+    <file name="u11280-4.png" crc="44176096" ref="contribution"/>
     <file name="mozilla-support.png" crc="4204761111" seo="true" ref="contribution"/>
-    <file name="u1417-4.png" crc="4021956038" ref="contribution"/>
+    <file name="u11305-4.png" crc="4021956038" ref="contribution"/>
     <file name="mls.png" crc="6224282" seo="true" ref="contribution"/>
-    <file name="u1365-4.png" crc="165157625" ref="contribution"/>
+    <file name="u11294-4.png" crc="165157625" ref="contribution"/>
     <file name="mozilla_l10n_logo_400.png" crc="4181423178" seo="true" ref="contribution"/>
-    <file name="sciencelabsticker-crop-u1384.jpg" crc="334201461" ref="contribution"/>
-    <file name="sciencelabsticker-crop-u1374.jpg" crc="263678759" ref="contribution"/>
-    <file name="mdn_logo-wordmark-full_color-crop-u1400.jpg" crc="4050821938" ref="contribution"/>
-    <file name="mdn_logo-wordmark-full_color-crop-u1410.jpg" crc="3949504355" ref="contribution"/>
+    <file name="sciencelabsticker-crop-u11273.jpg" crc="334201461" ref="contribution"/>
+    <file name="sciencelabsticker-crop-u11297.jpg" crc="263678759" ref="contribution"/>
+    <file name="mdn_logo-wordmark-full_color-crop-u11301.jpg" crc="4050821938" ref="contribution"/>
+    <file name="mdn_logo-wordmark-full_color-crop-u11303.jpg" crc="3949504355" ref="contribution"/>
+    <file name="u11466-4.png" crc="276618187" ref="contact-us"/>
   </folder>
-  <file name="index.html" crc="3991412516" seo="true" mt="1474364664391" redirect="true"/>
-  <file name="events.html" crc="445523045" seo="true" mt="1474364664369" redirect="true"/>
-  <file name="faq.html" crc="4005475505" seo="true" mt="1474364664369" redirect="true"/>
-  <file name="contribution.html" crc="3995961998" seo="true" mt="1474430986237" redirect="true"/>
+  <file name="index.html" crc="3926316594" seo="true" mt="1509754031941" redirect="true"/>
+  <file name="events.html" crc="4293774837" seo="true" mt="1509754031941" redirect="true"/>
+  <file name="contribution.html" crc="3974763370" seo="true" mt="1509754262591" redirect="true"/>
+  <file name="contact-us.html" crc="227649962" seo="true" mt="1509754651679" redirect="true"/>
+  <file name="forum.html" crc="3788028550" seo="true" mt="1509754031941" redirect="true"/>
 </manifest>

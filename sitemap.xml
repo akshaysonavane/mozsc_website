@@ -2,97 +2,157 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://mozsc.esy.es/index.html</loc>
-    <lastmod>2016-09-20</lastmod>
+    <lastmod>2017-11-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mozsc.esy.es/forum.html</loc>
+    <lastmod>2017-11-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mozsc.esy.es/contact-us.html</loc>
+    <lastmod>2017-11-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://mozsc.esy.es/contribution.html</loc>
-    <lastmod>2016-09-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://mozsc.esy.es/faq.html</loc>
-    <lastmod>2016-09-20</lastmod>
+    <lastmod>2017-11-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://mozsc.esy.es/events.html</loc>
-    <lastmod>2016-09-20</lastmod>
+    <lastmod>2017-11-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mozsc.esy.es/images/tumblr_o06l7j5yvv1to825mo1_500.gif</loc>
-    <lastmod>2016-09-21</lastmod>
+    <loc>http://mozsc.esy.es/images/dsc_0238.jpg</loc>
+    <lastmod>2017-11-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mozsc.esy.es/images/mozsclogo%204.png</loc>
-    <lastmod>2016-09-21</lastmod>
+    <loc>http://mozsc.esy.es/images/dsc_0229.jpg</loc>
+    <lastmod>2017-11-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mozsc.esy.es/images/template_responsive-ani3.gif</loc>
-    <lastmod>2016-09-21</lastmod>
+    <loc>http://mozsc.esy.es/images/dsc_0326.jpg</loc>
+    <lastmod>2017-11-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mozsc.esy.es/images/00001.png</loc>
-    <lastmod>2016-09-21</lastmod>
+    <loc>http://mozsc.esy.es/images/p_20150722_144847.jpg</loc>
+    <lastmod>2017-11-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mozsc.esy.es/images/6017-cartoons-comics-gameboy-advance-gba-video-games-cartoons-.gif</loc>
-    <lastmod>2016-09-21</lastmod>
+    <loc>http://mozsc.esy.es/images/p_20150722_152335.jpg</loc>
+    <lastmod>2017-11-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mozsc.esy.es/images/mozilla-support.png</loc>
-    <lastmod>2016-09-21</lastmod>
+    <loc>http://mozsc.esy.es/images/video-bg.png</loc>
+    <lastmod>2017-11-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mozsc.esy.es/images/mls.png</loc>
-    <lastmod>2016-09-21</lastmod>
+    <loc>http://mozsc.esy.es/images/pasted%20image%20324x44.png</loc>
+    <lastmod>2017-11-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mozsc.esy.es/images/mozilla_l10n_logo_400.png</loc>
-    <lastmod>2016-09-21</lastmod>
+    <loc>http://mozsc.esy.es/images/426222785_252010.jpg</loc>
+    <lastmod>2017-11-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mozsc.esy.es/images/slogen.png</loc>
-    <lastmod>2016-09-21</lastmod>
+    <loc>http://mozsc.esy.es/images/dsc_0231.jpg</loc>
+    <lastmod>2017-11-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mozsc.esy.es/images/bb2bffbffd2f4bbe54274e693245cedc.jpg</loc>
-    <lastmod>2016-09-21</lastmod>
+    <loc>http://mozsc.esy.es/images/pasted%20image%20325x44.png</loc>
+    <lastmod>2017-11-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mozsc.esy.es/images/giphy.gif</loc>
-    <lastmod>2016-09-21</lastmod>
+    <loc>http://mozsc.esy.es/images/pasted%20image%20364x365.png</loc>
+    <lastmod>2017-11-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mozsc.esy.es/images/35033709956_51804e50f6_z.jpg</loc>
+    <lastmod>2017-11-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://mozsc.esy.es/images/herramientas-hacer-infografias.jpg</loc>
-    <lastmod>2016-09-21</lastmod>
+    <lastmod>2017-11-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mozsc.esy.es/images/mozilla-support.png</loc>
+    <lastmod>2017-11-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mozsc.esy.es/images/mls.png</loc>
+    <lastmod>2017-11-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mozsc.esy.es/images/mozilla_l10n_logo_400.png</loc>
+    <lastmod>2017-11-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mozsc.esy.es/images/img_20170315_144750701.jpg</loc>
+    <lastmod>2017-11-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mozsc.esy.es/images/426111783_150902.jpg</loc>
+    <lastmod>2017-11-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mozsc.esy.es/images/img_20170315_152452022.jpg</loc>
+    <lastmod>2017-11-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mozsc.esy.es/images/pasted%20image%20408x409.png</loc>
+    <lastmod>2017-11-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mozsc.esy.es/images/34905752202_d814686428_z.jpg</loc>
+    <lastmod>2017-11-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
